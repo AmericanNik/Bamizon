@@ -17,7 +17,7 @@ var connection = mysql.createConnection({
     user: "root",
 
     // Your password
-    password: "Mech1pro$",
+    password: "Enter Password Here",
     database: "bamizon"
 });
 
